@@ -25,7 +25,7 @@
     - [Libraries](https://github.com/nataliaburrey/Neural_Network#libraries)
     - [Work with GitHub](https://github.com/nataliaburrey/Neural_Network#work-with-github)
     - [How to install](https://github.com/nataliaburrey/Neural_Network#how-to-install)
-- [Project findings](https://github.com/nataliaburrey/Neural_Network/blob/main/README.md#project-findings)
+- [Project findings](https://github.com/nataliaburrey/Neural_Network#project-findings)
 - [Helps recruiters](https://github.com/nataliaburrey/Neural_Network#helps-recruiters)
 - [License](https://github.com/nataliaburrey/Neural_Network#license)
 
@@ -98,8 +98,9 @@ now you can find repo on your desktop
 
 ## Project findings
 
+Following code displaying findings for each model:
 [
-<img width="1099" alt="Screen Shot 2021-06-21 at 7 40 54 PM" src="https://user-images.githubusercontent.com/80833988/122854453-9af56e00-d2c8-11eb-9060-625d4e7bdbc1.png">
+<img width="1082" alt="Screen Shot 2021-06-21 at 7 54 34 PM" src="https://user-images.githubusercontent.com/80833988/122855732-831ee980-d2ca-11eb-9940-05e191e2fac0.png">
 ](url)
 
 
