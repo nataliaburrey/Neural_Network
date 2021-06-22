@@ -25,7 +25,7 @@
     - [Libraries](https://github.com/nataliaburrey/Neural_Network#libraries)
     - [Work with GitHub](https://github.com/nataliaburrey/Neural_Network#work-with-github)
     - [How to install](https://github.com/nataliaburrey/Neural_Network#how-to-install)
-- [Project findings]()
+- [Project findings](https://github.com/nataliaburrey/Neural_Network/blob/main/README.md#project-findings)
 - [Helps recruiters](https://github.com/nataliaburrey/Neural_Network#helps-recruiters)
 - [License](https://github.com/nataliaburrey/Neural_Network#license)
 
